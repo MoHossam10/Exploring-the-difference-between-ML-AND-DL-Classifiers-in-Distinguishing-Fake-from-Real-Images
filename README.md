@@ -36,4 +36,4 @@ perimentation in the absence or addition to real data Moreover,
 
 
 
- ![Project Screenshot](Screensho1.png)
+ ![Project Screenshot](Screenshot1.png)
